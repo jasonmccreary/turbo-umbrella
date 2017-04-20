@@ -1,2 +1,2 @@
 # turbo-umbrella
-This is a sample repository created during the "Getting Git" workshop at LoneStar PHP!
+This is a sample repository created during the ["Getting Git"](https://gettinggit.com) workshop at LoneStar PHP!
